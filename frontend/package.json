@@ -1,0 +1,22 @@
+{
+  "name": "e-commerce",
+  "version": "1.0.0",
+  "description": "E-commerce site using vallina JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "start": "live-server src --verbose",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "e-ecommerce A"
+  },
+  "keywords": [
+    "e-commerce"
+  ],
+  "author": "Ardijan Thaci",
+  "license": "ISC",
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
